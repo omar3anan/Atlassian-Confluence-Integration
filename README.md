@@ -38,8 +38,7 @@
     <h2>Contributing</h2>
     <p>
         Contributions are welcome! Please follow the standard GitHub Fork & Pull Request workflow.
-    </p>
-
+    </p> 
     <h2>License</h2>
     <p>
         This project is licensed under the MIT License - see the <a href="LICENSE">LICENSE</a> file for details.
