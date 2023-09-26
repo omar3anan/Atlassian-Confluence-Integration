@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Atlassian Confluence Integration README </title>
+    Atlassian Confluence Integration 
 </head>
 <body>
     <h1>Atlassian Confluence Integration</h1>
