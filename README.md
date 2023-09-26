@@ -20,7 +20,7 @@
     <h3>Installation</h3>
     <p>
         1. Clone this repository to your local machine:<br>
-        <code>git clone https://github.com/yourusername/your-repo.git</code><br>
+        <code>git clone https://github.com/omar3anan/Atlassian-Confluence-Integration.git</code><br>
         2. Navigate to the project directory:<br>
         <code>cd your-repo</code><br>
         3. Install the required dependencies:<br>
